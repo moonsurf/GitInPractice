@@ -2,3 +2,7 @@ A funny story
 A funny story2
 A funny story3
 New branch - chapter two
+== Chapter 3 ==
+Hi, this is chapter 3!
+Now, I'll tell you some really funny stories.
+// TO-DO: Stay tuned...
